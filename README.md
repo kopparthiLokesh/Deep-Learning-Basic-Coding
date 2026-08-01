@@ -1,4 +1,4 @@
-# 🧠 MIST Handwritten Digits Recognition Using ANN
+# MIST Handwritten Digits Recognition Using ANN
 
 A deep learning project that classifies handwritten digits (0–9) using an **Artificial Neural Network (ANN)** trained on the **MNIST dataset**. The model learns meaningful patterns from grayscale images and accurately predicts the corresponding digit class.
 
